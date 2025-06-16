@@ -14,11 +14,19 @@
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "X:\\new_c3\\new_c3.csproj",
       "projectName": "new_c3",
       "projectPath": "X:\\new_c3\\new_c3.csproj",
       "packagesPath": "C:\\Users\\hp5CD\\.nuget\\packages\\",
       "outputPath": "X:\\new_c3\\obj\\",
+=======
+      "projectUniqueName": "X:\\hello_world\\hello_world.csproj",
+      "projectName": "hello_world",
+      "projectPath": "X:\\hello_world\\hello_world.csproj",
+      "packagesPath": "C:\\Users\\hp5CD\\.nuget\\packages\\",
+      "outputPath": "X:\\hello_world\\obj\\",
+>>>>>>> 61c549233fa23e95d9d779b1f1284ab57da3a669
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

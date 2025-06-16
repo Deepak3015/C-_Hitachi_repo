@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "v6tAg1yIWDg=",
   "success": true,
   "projectFilePath": "X:\\new_c3\\new_c3.csproj",
+=======
+  "dgSpecHash": "0QsKpVdziEA=",
+  "success": true,
+  "projectFilePath": "X:\\hello_world\\hello_world.csproj",
+>>>>>>> 61c549233fa23e95d9d779b1f1284ab57da3a669
   "expectedPackageFiles": [],
   "logs": []
 }
