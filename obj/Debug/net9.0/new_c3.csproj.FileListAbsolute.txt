@@ -1,0 +1,14 @@
+X:\new_c3\bin\Debug\net9.0\new_c3.exe
+X:\new_c3\bin\Debug\net9.0\new_c3.deps.json
+X:\new_c3\bin\Debug\net9.0\new_c3.runtimeconfig.json
+X:\new_c3\bin\Debug\net9.0\new_c3.dll
+X:\new_c3\bin\Debug\net9.0\new_c3.pdb
+X:\new_c3\obj\Debug\net9.0\new_c3.GeneratedMSBuildEditorConfig.editorconfig
+X:\new_c3\obj\Debug\net9.0\new_c3.AssemblyInfoInputs.cache
+X:\new_c3\obj\Debug\net9.0\new_c3.AssemblyInfo.cs
+X:\new_c3\obj\Debug\net9.0\new_c3.csproj.CoreCompileInputs.cache
+X:\new_c3\obj\Debug\net9.0\new_c3.dll
+X:\new_c3\obj\Debug\net9.0\refint\new_c3.dll
+X:\new_c3\obj\Debug\net9.0\new_c3.pdb
+X:\new_c3\obj\Debug\net9.0\new_c3.genruntimeconfig.cache
+X:\new_c3\obj\Debug\net9.0\ref\new_c3.dll
